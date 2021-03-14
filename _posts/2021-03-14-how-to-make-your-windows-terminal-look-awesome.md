@@ -102,3 +102,10 @@ Same goes for `Microsoft.PowerShell_profile.ps1`
 3. https://medium.com/analytics-vidhya/customize-your-windows-powershell-with-oh-my-posh-posh-git-93284b2749b6
 4. https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58
 
+## About `terminal_background_imgs`:
+This has all the icons and background images that I used in my windows terminal.
+
+## About `fonts`:
+This has different kind of fonts the that I used in my windows terminal. No need to install all of them, install what you like.
+
+Thank you for reading.
