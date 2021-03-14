@@ -42,11 +42,11 @@ Don't really use every one of them, I usually prefer to use PowerShell, but got 
 ### Windows terminal Look:
 <br>
 <pre>
-<img src="images/3.png" width="900"> <img src="images/2.png" width="900"> <img src="images/1.png" width="900">
+<img src="https://i.ibb.co/SPczSvm/3.png" width="900">  <img src="https://i.ibb.co/JsGDmNv/2.png" width="900"> <img src="https://i.ibb.co/HPbJyqv/1.png" width="900"> 
 </pre>
 
 # Total different terminals
-<img src="images/4.jpg" width="400">
+<img src="https://i.ibb.co/zGSMThk/4.jpg" width="400">
 
 ### Features in the settings1.json of windows terminal:
 1. WSL 1 added 
