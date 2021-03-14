@@ -1,4 +1,6 @@
-# RNN implementation in Tensorflow 2.0
+# Indepth RNN and implementation using tf2.x
+
+
 ![RNN struc](https://i.imgur.com/KXbnThQ.png)
 <br>
 
