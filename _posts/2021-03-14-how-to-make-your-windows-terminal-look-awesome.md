@@ -28,7 +28,7 @@ use_math: true
 
 
 # how to make your windows terminal look awesome
-This is the repo where i have put my terminal setup files, and mentioned how i did that. I have 6 shells in my windows terminal 
+This is the repo(https://github.com/soumya997/windows-terminal-setup) where i have put my terminal setup files, and mentioned how i did that. I have 6 shells in my windows terminal 
 1. Powershell,
 2. PowerShell 7,
 3. cmd,
