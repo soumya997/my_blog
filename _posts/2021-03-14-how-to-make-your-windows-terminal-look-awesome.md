@@ -1,4 +1,33 @@
-# windows terminal setup
+---
+title: "how to make your windows terminal look awesome"
+toc: true
+toc_sticky: true
+
+categories:
+  - setup 
+
+
+tags:
+  - windows terminal
+  - oh-my-zsh
+  - oh-my-posh
+  - git-posh
+  - auto-suggestion
+  - powershell
+  - powershell 7
+  - git 
+  - custom font
+  - background image
+
+last_modified_at: 2020-10-01T08:06:00-05:00
+
+
+use_math: true
+---
+
+
+
+# how to make your windows terminal look awesome
 This is the repo where i have put my terminal setup files, and mentioned how i did that. I have 6 shells in my windows terminal 
 1. Powershell,
 2. PowerShell 7,
@@ -73,7 +102,3 @@ Same goes for `Microsoft.PowerShell_profile.ps1`
 3. https://medium.com/analytics-vidhya/customize-your-windows-powershell-with-oh-my-posh-posh-git-93284b2749b6
 4. https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58
 
-
-**Personal-note:** I renames Microsoft.PowerShell_profile.ps1 to Microsoft.PowerShell_profile_ps5.ps1 as it belongs to the powershell 5 version it is inside C:\Users\USER\Documents\WindowsPowerShell
-
-and version 7 of ps is in side C:\Users\USER\Documents\PowerShell
