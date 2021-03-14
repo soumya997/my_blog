@@ -89,11 +89,11 @@ Don't really use every one of them, I usually prefer to use PowerShell, but got 
 ### Customizations in cmd
 1. I did not do any change in cmd, just call `powershell` to summon it there and use powershell from cmd
 
-## About `Microsoft.PowerShell_profile_ps5.ps1`:
+### About `Microsoft.PowerShell_profile_ps5.ps1`:
 Its the script for adding functionality in powershell, you will create one via watching the videos.
 Same goes for `Microsoft.PowerShell_profile.ps1`
 
-## Full playlist and blog posts that helped me to do this:
+### Full playlist and blog posts that helped me to do this:
 **Playlist:** https://www.youtube.com/playlist?list=PLpXNRoFc3V1HC93g55Qgl9YNM_4tHaKPP
 
 **Blog Posts:**
@@ -102,10 +102,10 @@ Same goes for `Microsoft.PowerShell_profile.ps1`
 3. https://medium.com/analytics-vidhya/customize-your-windows-powershell-with-oh-my-posh-posh-git-93284b2749b6
 4. https://slmeng.medium.com/how-to-install-powerline-fonts-in-windows-b2eedecace58
 
-## About `terminal_background_imgs`:
+### About `terminal_background_imgs`:
 This has all the icons and background images that I used in my windows terminal.
 
-## About `fonts`:
+### About `fonts`:
 This has different kind of fonts the that I used in my windows terminal. No need to install all of them, install what you like.
 
 Thank you for reading.
