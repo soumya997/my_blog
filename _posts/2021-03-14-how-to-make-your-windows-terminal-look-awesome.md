@@ -1,5 +1,5 @@
 ---
-title: "how to make your windows terminal look awesome"
+title: "How to make your windows terminal look awesome"
 toc: true
 toc_sticky: true
 
